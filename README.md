@@ -1,1 +1,1 @@
-JavaFx Game Pirate Battle Ship Game
+JavaFx Pirate Battle Ship Game
