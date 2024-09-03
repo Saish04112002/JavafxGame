@@ -7,4 +7,6 @@ Features:
 •	Eliminating all dragons triggers a congratulatory message.
 
 ![Javafx 1 ](https://github.com/user-attachments/assets/38062289-0306-4b3c-847e-c01932a3f22e)
+![Javafx 2](https://github.com/user-attachments/assets/b6f1ab88-3729-44f3-9ee8-b35857365eed)
+
 
